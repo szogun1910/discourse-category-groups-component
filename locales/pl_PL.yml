@@ -5,3 +5,14 @@
 # https://translate.discourse.org/
 
 pl_PL:
+  theme_metadata:
+    description: "Niestandardowa strona kategorii z ustawieniami grup"
+    settings:
+      category_groups: "Formatuj jako: Nazwa grupy: kategoria-slug, dodatkowy-link-id, kategoria-slug-2"
+      extra_links: "Dodatkowe linki, które można dodać do listy kategorii. Dodaj ID linku w ustawieniu category_groups, aby je wyświetlić"
+      show_on_mobile: "Pokaż grupy kategorii w rozwijanej formie na urządzeniach mobilnych"
+      show_ungrouped: "Wyświetl grupę kategorii, które nie są przypisane do innej grupy"
+      hide_muted_subcategories: "Po włączeniu, nieprzyciszona kategoria nadrzędna nie pojawi się w sekcji przyciszonych, jeśli ma przyciszoną podkategorię"
+      fancy_styling: "Włącz dodatkowe stylowanie"
+  ungrouped_categories_title: "Inne"
+
